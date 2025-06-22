@@ -486,7 +486,7 @@ function App() {
             </div>
 
             <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-400">
-              <p>&copy; 2025 Conscious Media Consumption. Built with ❤️ by Manus AI.</p>
+              <p>&copy; 2025 Conscious Media Consumption. Built with ❤️ by Jayanth.</p>
             </div>
           </div>
         </div>
